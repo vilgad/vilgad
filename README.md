@@ -32,7 +32,7 @@ I'm Rohit AKA Vilgad. I love to create real world projects and network with othe
  <img alt="JavaScript" src="https://github.com/vilgad/vilgad/blob/main/js.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Android" src="https://github.com/vilgad/vilgad/blob/main/android.png" height="50px"/>&nbsp;&nbsp;
   <img alt="Git" src="https://github.com/vilgad/vilgad/blob/main/git.png" height="50px"/>&nbsp;&nbsp;
- <img alt="Kotlin" src="https://github.com/vilgad/vilgad/blob/main/kotlin.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="Kotlin" src="https://github.com/vilgad/vilgad/blob/main/Kotlin_Icon.png" height="50px"/>&nbsp;&nbsp;
 </p>
 <br/>
 <p align="center">
