@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Gupta</h1>
 
  <p align="center">
-    <a href="https://github.com/vilgad"><img src="https://github.com/vilgad/vilgad/blob/main/loading.gif" height="120px"/></a> 
+    <a href="https://github.com/vilgad"><img src="https://github.com/vilgad/vilgad/blob/main/output-onlinegiftools.gif" height="120px"/></a> 
 
   <h2 align="center"> Lets Know me 😋</h2>
   
