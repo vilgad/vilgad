@@ -7,7 +7,7 @@
   
   <p align="center" font>
   <samp>
-I'm a programmer who loves to create real world projects and network with others. Keen to collaborate with others and always up for community work
+I'm Rohit AKA Vilgad. I love to create real world projects and network with others. Keen to collaborate with others and always up for community work
   </samp><br><br>
    <samp>
      <img src="https://komarev.com/ghpvc/?username=vilgad" alt="Rohit Gupta" /> 
