@@ -15,8 +15,11 @@ I'm Rohit AKA Vilgad. I love to create real world projects and network with othe
   
   ## 🌐 My Tech Experiences
   - [Event Lead - Coders Evoke](https://github.com/Coders-Evoke-Community) - handle the event responsibilities in coders evoke community
-  - [JWOC Mentor](https://jwoc.tech/projects) - Mentor the gallery and Musgenix project in JWOC
+  - [Event Lead - CodeIn Community](https://codeincommunity.tech/) - handle the event responsibilities in codein community
+  - [JWOC Project Admin and Mentor](https://jwoc.tech/projects) - Mentor the gallery and Musgenix project in JWOC and recognized as the <strong> best mentor</strong> 
   - [GSsOC Mentor](https://github.com/prathimacode-hub/IoT-Spot) - Mentor of Website of Iot-Spot Project
+  - [HackCLub Lead] - I am the lead of hackclub of my campus
+  - Have participated in many hackathons like <strong>hackcbs, hack the league, Google Solution challenge etc</strong>
   <br/>
   <div align="center">
 
