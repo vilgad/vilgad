@@ -38,7 +38,7 @@ I'm Rohit AKA Vilgad. I love to create real world projects and network with othe
   <img alt="Git" src="https://github.com/vilgad/vilgad/blob/main/git.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Kotlin" src="https://github.com/vilgad/vilgad/blob/main/Kotlin_Icon.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Bootstrap" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
- <img alt="ReactJS" src="https://github.com/vilgad/vilgad/blob/main/ReactJS.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="ReactJS" src="https://github.com/vilgad/vilgad/blob/main/Reactjs.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Postman" src="https://github.com/vilgad/vilgad/blob/main/Postman.png" height="50px"/>&nbsp;&nbsp;
 </p>
 <br/>
