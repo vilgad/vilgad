@@ -7,15 +7,18 @@
   
   <p align="center" font>
   <samp>
-I'm Rohit AKA Vilgad. I love to create real world projects and network with others. Keen to collaborate with others and always up for community work
+I'm Rohit AKA Vilgad. I am a Android Developer, Frontend Developer and Springboot Developer. I love to create real world projects and network with others. Keen to collaborate with others and always up for community work
   </samp><br><br>
    <samp>
      <img src="https://komarev.com/ghpvc/?username=vilgad" alt="Rohit Gupta" /> 
     </p>
   
   ## 🌐 My Tech Experiences
+  - Worked as an Android And Web Intern in BAzigar India
   - [Event Lead - Coders Evoke](https://github.com/Coders-Evoke-Community) - handle the event responsibilities in coders evoke community
   - [Event Lead - CodeIn Community](https://codeincommunity.tech/) - handle the event responsibilities in codein community
+  - [Community Manager in Lets Build Together community]
+  - [Tech Lead in Codedu community]
   - [JWOC Project Admin and Mentor](https://jwoc.tech/projects) - Mentor the gallery and Musgenix project in JWOC and recognized as the <strong> best mentor</strong> 
   - [GSsOC Mentor](https://github.com/prathimacode-hub/IoT-Spot) - Mentor of Website of Iot-Spot Project
   - [HackCLub Lead] - I am the lead of hackclub of my campus
@@ -38,7 +41,10 @@ I'm Rohit AKA Vilgad. I love to create real world projects and network with othe
   <img alt="Git" src="https://github.com/vilgad/vilgad/blob/main/git.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Kotlin" src="https://github.com/vilgad/vilgad/blob/main/Kotlin_Icon.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Bootstrap" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="Tailwind CSS" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="Springboot" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
  <img alt="ReactJS" src="https://github.com/vilgad/vilgad/blob/main/Reactjs.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="MySQL" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Postman" src="https://github.com/vilgad/vilgad/blob/main/Postman.png" height="50px"/>&nbsp;&nbsp;
 </p>
 <br/>
