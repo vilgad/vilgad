@@ -41,10 +41,10 @@ I'm Rohit AKA Vilgad. I am a Android Developer, Frontend Developer and Springboo
   <img alt="Git" src="https://github.com/vilgad/vilgad/blob/main/git.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Kotlin" src="https://github.com/vilgad/vilgad/blob/main/Kotlin_Icon.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Bootstrap" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
- <img alt="Tailwind CSS" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
- <img alt="Springboot" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="Tailwind CSS" src="https://github.com/vilgad/vilgad/blob/main/tailwind.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="Springboot" src="https://github.com/vilgad/vilgad/blob/main/spring-boot-logo.png" height="50px"/>&nbsp;&nbsp;
  <img alt="ReactJS" src="https://github.com/vilgad/vilgad/blob/main/Reactjs.png" height="50px"/>&nbsp;&nbsp;
- <img alt="MySQL" src="https://github.com/vilgad/vilgad/blob/main/Bootstrap.png" height="50px"/>&nbsp;&nbsp;
+ <img alt="MySQL" src="https://github.com/vilgad/vilgad/blob/main/MySql.png" height="50px"/>&nbsp;&nbsp;
  <img alt="Postman" src="https://github.com/vilgad/vilgad/blob/main/Postman.png" height="50px"/>&nbsp;&nbsp;
 </p>
 <br/>
